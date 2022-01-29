@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Waltrickmw, I'm 24 years old.
+- 👋 Hi, I’m @Waltrickmw, I'm 25 years old.
 - 👀 I’m interested in sports, games, sitcons and a lot of things!
 - 🌱 I’m currently learning Java and Groovy. 
 - 💞️ I’m looking to collaborate on ...
